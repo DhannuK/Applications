@@ -1,0 +1,1 @@
+int FileInfo(int, char);
