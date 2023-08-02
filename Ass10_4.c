@@ -1,5 +1,13 @@
 //Write a program which create single thread and it accept one values from user and it returns some value to the caller thread.
 
+/* Enter  number : 
+10
+Thread is created with ID : 595588672
+Value received from main thread is : 10
+Return value from thread is 11
+End of the main.
+ */
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<unistd.h>
